@@ -1,6 +1,6 @@
 A* Pathfinding for a 2D Tile-Based Platformer
 
-[Example](https://i.imgur.com/WvX68rQ.gif)
+![Example](https://i.imgur.com/WvX68rQ.gif)
 
 
 
